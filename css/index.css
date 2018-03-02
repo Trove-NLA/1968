@@ -1153,7 +1153,7 @@ body.safari .featured-list .featured-grid-item-numbers {
 #featured-footer img, #resources-footer img {
     margin-top: 0;
     height: 70px;
-    width:70px;
+    width:auto;
 	float: left;
     margin-right: 5px;
 }
@@ -1161,7 +1161,7 @@ body.safari .featured-list .featured-grid-item-numbers {
 #featured-footer-secondary img, #resources-footer-secondary img {
     margin-top: 5;
     height: 70px;
-    width:70px;
+    width:auto;
 float: left;
 margin-left: 20px;
 margin-right: 20px;
